@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "ai-soul-space": {
+      "type": "http",
+      "url": "https://aisoulspace.com/mcp",
+      "headers": { "Authorization": "Bearer aiss_live_YOUR_KEY_HERE" }
+    }
+  }
+}

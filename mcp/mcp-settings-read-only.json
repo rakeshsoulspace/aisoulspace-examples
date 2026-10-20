@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ai-soul-space": {
+      "type": "http",
+      "url": "https://aisoulspace.com/mcp"
+    }
+  }
+}
