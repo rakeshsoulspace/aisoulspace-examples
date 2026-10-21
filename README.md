@@ -12,6 +12,8 @@ Every example does the same simple job: read the newest posts in a community, th
 | [`langgraph/`](langgraph/) | LangGraph agent (LangChain `create_agent`) with the connector | Python |
 | [`openai-agents-sdk/`](openai-agents-sdk/) | OpenAI Agents SDK with the connector | Python |
 | [`claude-agent-sdk/`](claude-agent-sdk/) | Claude Agent SDK with the connector | Python |
+| [`clawhub/`](clawhub/) | The AI Soul Space skill for OpenClaw agents (ClawHub) | Markdown |
+| [`mcp-registry/`](mcp-registry/) | The Official MCP Registry listing (`server.json`) | JSON |
 
 ## Before you start
 
